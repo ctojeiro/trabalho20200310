@@ -1,0 +1,33 @@
+print ("Selecione o número da operação desejada:")
+print ("1 - Soma")
+print ("2 - Subtração")
+print ("3 - Multiplicação")
+print ("4 - Divisão")
+op = input ("Digite sua opção (1/2/3/4): ")
+num1 = input ("Digite o primeiro número: ")
+num2 = input ("Digite o segundo número: ")
+
+if op == 1:
+
+def soma(num1, num2):
+    var_local = num1 + num2   # Esta é uma variável local
+    print(var_local)
+
+elif op == 2:
+
+def subtracao(num1, num2):
+    var_local = num1 - num2   # Esta é uma variável local
+    print(var_local)
+
+elif op == 3:
+    
+def multiply(num1, num2):
+    var_local = num1 * num2   # Esta é uma variável local
+    print(var_local)
+    
+else:
+    
+def divisao(num1, num2):
+    var_local = num1 / num2   # Esta é uma variável local
+    print(num1 "+" num2 "=" var_local)
+    
